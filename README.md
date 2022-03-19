@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Tomino (Tom) 👩‍💻</h1>
 
-<p align='center'>I live in NRW, Germany 🇩🇪 and i attend the eleventh grade at school 🏫</p>
 
 <hr>
 
