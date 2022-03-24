@@ -44,3 +44,11 @@
 
 <hr>
 
+<h4>🏢 Working for ...</h4>
+<p>
+    
+    <img src="https://cdn.discordapp.com/attachments/717414262741532705/955553921663926342/logo_white_large.png" alt="OceanSpire">&nbsp;&nbsp;    
+    
+</p>
+
+<hr>
