@@ -11,11 +11,11 @@
 
 <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Python-16B800?&style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Svelte-bf0d1f?&style=for-the-badge&logo=Svelte&logoColor=white" alt="Svelte">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS-1d0cd4?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">&nbsp;&nbsp;
     
     
