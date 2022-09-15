@@ -3,7 +3,7 @@
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TominoLP&show_icons=true&theme=radical" alt="Tomino's Stats"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=TominoLP&show_icons=true&theme=radical" alt="Tomino's Stats"/>
 
 <hr>
 
@@ -46,5 +46,5 @@
 
 <hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZeusSeinGrossopa&area=true&hide_border=true&theme=gotham)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TominoLP&area=true&hide_border=true&theme=gotham)
 
