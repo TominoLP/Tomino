@@ -13,12 +13,6 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Python-16B800?&style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Svelte-bf0d1f?&style=for-the-badge&logo=Svelte&logoColor=white" alt="Svelte">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CSS-1d0cd4?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">&nbsp;&nbsp;
-    
-    
-
 </p>
 
 <hr>
@@ -41,7 +35,6 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira">&nbsp;&nbsp;
 </p>
 
 <hr>
