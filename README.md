@@ -8,7 +8,7 @@
 
 <hr>
 
-<h4>🔭  Languages and Frameworks ...</h4>
+<h4 align="center">🔭  Languages and Frameworks ...</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 
 <hr>
 
-<h4>🌱  Operating Systems ...</h4>
+<h4 align="center">🌱  Operating Systems ...</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">&nbsp;&nbsp;
@@ -29,7 +29,7 @@
 
 <hr>
 
-<h4>🛠️ Tools and Platforms ...</h4>
+<h4 align="center">🛠️ Tools and Platforms ...</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;    
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;    
