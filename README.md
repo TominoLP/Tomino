@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Tomino (Tom) 👩‍💻</h1>
+<h1 align="center">Hey, I'm Tom 👩‍💻</h1>
 
 
 <hr>
