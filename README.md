@@ -7,7 +7,8 @@
 <hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TominoLP&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&hide=issues,stars" alt="Tom's Stats"/>
+    <img src="https://streak-stats.demolab.com?user=ZeusSeinGrossopa&theme=tokyonight_duo&hide_border=true&border_radius=20" alt="Zeus's Stats"/>
+</p>
 
 <hr>
 
