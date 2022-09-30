@@ -7,7 +7,7 @@
 <hr>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Tomino_LP&theme=tokyonight_duo&hide_border=true&border_radius=20" alt="Tom's Stats"/>
+    <img src="https://streak-stats.demolab.com?user=TominoLP&theme=tokyonight&hide_border=true&border_radius=5.3&background=00000000" alt="Tom's Stats"/>
 </p>
 
 <hr>
