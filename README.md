@@ -45,5 +45,5 @@
 
 <hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TominoLP&area=true&hide_border=true&theme=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TominoLP&theme=react-dark)](https://github.com/TominoLP/github-readme-activity-graph)
 
