@@ -65,6 +65,12 @@ Im not the best at Designing but I try my best to make my projects look good.
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </p>
+
 <br><br>
 
+### here are some stats from my WakaTime profile:
+
+<img style="width: 80%" src="https://wakatime.com/share/@018c7c16-c083-4425-991c-aafcb5ddcc53/73e0138b-1130-4450-8bf9-aaf823ac5f33.svg">
+
+<br><br>
 <img style="width: 100%; border-bottom-right-radius: 14px; border-bottom-left-radius: 14px" src="../assets/img/waves-bot.svg">
