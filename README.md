@@ -9,10 +9,13 @@
 <p align="center">
   <a align="center" href="./pages/Languages_Frameworks.md">Languages and Frameworks</a> |
   <a align="center" href="./pages/Platforms_Tools.md">Platforms and Tools</a> | <a href="./pages/Projects.md">Projects</a> |
-  <a align="center" href="./pages/About.md">About me</a>
+  <a align="center" href="./pages/About.md">About me</a> 
+<br><br>
+  <img src="https://wakatime.com/badge/user/018c7c16-c083-4425-991c-aafcb5ddcc53.svg?style=for-the-badge">
 </p>
 
 <p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=TominoLP&show_icons=true&theme=dracula&hide_border=true&&title_color=C62368&text_color=FFFFFF&icon_color=FA7268&border_radius=14px&custom_title=My%20GitHub%20Stats&bg_color=100F0F" alt="GitHub Stats">
 </p>
 
