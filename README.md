@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <a align="center" href="./pages/Platforms_Tools">Platforms and Tools</a> | <a href="./pages/Projects.md">Projects</a> |
-  <a align="center" href="./pages/About.md">About me</a> | <a href="./README.md">Home</a>
+  <a align="center" href="./pages/Languages_Frameworks.md">Languages and Frameworks</a> |
+  <a align="center" href="./pages/Platforms_Tools.md">Platforms and Tools</a> | <a href="./pages/Projects.md">Projects</a> |
+  <a align="center" href="./pages/About.md">About me</a>
 </p>
 
 <p align="center">
