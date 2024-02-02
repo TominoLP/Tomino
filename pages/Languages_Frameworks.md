@@ -73,4 +73,5 @@ Im not the best at Designing but I try my best to make my projects look good.
 <img style="width: 80%" src="https://wakatime.com/share/@018c7c16-c083-4425-991c-aafcb5ddcc53/b1e9250f-3656-4d15-b517-7ecde11a34ce.svg">
 
 <br><br>
+**[Back](../README.md)**
 <img style="width: 100%; border-bottom-right-radius: 14px; border-bottom-left-radius: 14px" src="../assets/img/waves-bot.svg">

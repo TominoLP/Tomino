@@ -61,4 +61,5 @@ a few years ago I used **Visual Studio / Eclipse** and **Visual Studio Code** bu
 <img style="width: 45%" src="https://wakatime.com/share/@018c7c16-c083-4425-991c-aafcb5ddcc53/b7705985-739b-47e1-b92c-075af9f739c4.svg">
 </p>
 
+**[Back](../README.md)**
 <img style="width: 100%; border-bottom-right-radius: 14px; border-bottom-left-radius: 14px" src="../assets/img/waves-bot.svg">

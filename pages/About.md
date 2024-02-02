@@ -28,4 +28,5 @@ In 2023, I've immersed myself in music for a total of **24,795 minutes**.
 
 <br>
 
+**[Back](../README.md)**
 <img style="width: 100%; border-bottom-right-radius: 14px; border-bottom-left-radius: 14px" src="../assets/img/waves-bot.svg">
