@@ -8,7 +8,7 @@
 
 <p align="center">
   <a align="center" href="./pages/Languages_Frameworks.md">Languages and Frameworks</a> |
-  <a align="center" href="./pages/Platforms_Tools.md">Platforms and Tools</a> | <a href="./pages/Projects.md">Projects</a> |
+  <a align="center" href="./pages/Platforms_Tools.md">Platforms and Tools</a> | <a href="./pages/Blog.md">Blog</a> |
   <a align="center" href="./pages/About.md">About me</a> 
 <br><br>
   <img src="https://wakatime.com/badge/user/018c7c16-c083-4425-991c-aafcb5ddcc53.svg?style=for-the-badge">
