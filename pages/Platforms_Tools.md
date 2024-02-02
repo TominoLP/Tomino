@@ -56,4 +56,9 @@ a few years ago I used **Visual Studio / Eclipse** and **Visual Studio Code** bu
 
 <br><br>
 
+<p>
+<img style="width: 45%; " src="https://wakatime.com/share/@018c7c16-c083-4425-991c-aafcb5ddcc53/eb25e895-af05-4ec0-b90b-8f0b0b15f1df.svg" alt="Waka Time">
+<img style="width: 45%" src="https://wakatime.com/share/@018c7c16-c083-4425-991c-aafcb5ddcc53/b7705985-739b-47e1-b92c-075af9f739c4.svg">
+</p>
+
 <img style="width: 100%; border-bottom-right-radius: 14px; border-bottom-left-radius: 14px" src="../assets/img/waves-bot.svg">
